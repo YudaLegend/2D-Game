@@ -1,0 +1,67 @@
+﻿  BackgroundMap.cpp
+BackgroundMap.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  BigMario.cpp
+  Block.cpp
+  Coins.cpp
+  Enemy.cpp
+  Entity.cpp
+  Game.cpp
+  GameUI.cpp
+GameUI.cpp(32): warning C4018: '<': signed/unsigned mismatch
+GameUI.cpp(166): warning C4018: '<': signed/unsigned mismatch
+GameUI.cpp(442): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+GameUI.cpp(457): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+GameUI.cpp(483): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  InterrogantBlock.cpp
+  JumpingMoney.cpp
+  main.cpp
+main.cpp(89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MediaPlayer.cpp
+  MenuUI.cpp
+MenuUI.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  MushMonster.cpp
+  MushRoom.cpp
+  OtherScenes.cpp
+OtherScenes.cpp(116): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+Player.cpp(363): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Scene.cpp
+Scene.cpp(96): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(105): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(118): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(132): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(141): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(374): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(416): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(546): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(556): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(570): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(582): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(593): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(609): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(621): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(634): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(647): warning C4018: '<': signed/unsigned mismatch
+Scene.cpp(660): warning C4018: '<': signed/unsigned mismatch
+  Shader.cpp
+  ShaderProgram.cpp
+  Compiling...
+  SmallMario.cpp
+  Sprite.cpp
+  Star.cpp
+  Texture.cpp
+  TileMap.cpp
+TileMap.cpp(100): warning C4018: '<': signed/unsigned mismatch
+  Turtle.cpp
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+c:\users\yuda\documents\wechat files\wxid_0sthfmn6yook22\filestorage\file\2023-11\12333\02-bubble\02-bubble\tilemap.cpp(286): warning C4715: 'TileMap::posInt': not all control paths return a value
+  All 1485 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\Yuda\Documents\WeChat Files\wxid_0sthfmn6yook22\FileStorage\File\2023-11\12333\02-Bubble\Release\vc100.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\Yuda\Documents\WeChat Files\wxid_0sthfmn6yook22\FileStorage\File\2023-11\12333\02-Bubble\Release\vc100.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\Yuda\Documents\WeChat Files\wxid_0sthfmn6yook22\FileStorage\File\2023-11\12333\02-Bubble\Release\vc100.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\Yuda\Documents\WeChat Files\wxid_0sthfmn6yook22\FileStorage\File\2023-11\12333\02-Bubble\Release\vc100.pdb'; linking object as if no debug info
+  02-Bubble.vcxproj -> C:\Users\Yuda\Documents\WeChat Files\wxid_0sthfmn6yook22\FileStorage\File\2023-11\12333\02-Bubble\Release\02-Bubble.exe
+  02-Bubble.vcxproj -> C:\Users\Yuda\Documents\WeChat Files\wxid_0sthfmn6yook22\FileStorage\File\2023-11\12333\02-Bubble\Release\02-Bubble.pdb (Full PDB)
